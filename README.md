@@ -21,4 +21,4 @@ To run the nodes, clone this repository to the src directory in a ros workspace.
    
     ```ros2 run cpp_publisher talker```
     
-    ```ros2 run cpp_listener listener```
+    ```ros2 run py_subscriber listener```
